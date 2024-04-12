@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\Карина\Desktop\прога\яп\ЯПЫ 3 CPU\Source.c(21,13): warning C4033: "determinant" должен возвращать значение
+C:\Users\Карина\Desktop\прога\яп\ЯПЫ 3 CPU\Source.c(42,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Карина\Desktop\прога\яп\ЯПЫ 3 CPU\Source.c(53,39): warning C4047: функция: "float *" отличается по уровням косвенного обращения от "float [3][3]"
+C:\Users\Карина\Desktop\прога\яп\ЯПЫ 3 CPU\Source.c(53,33): warning C4024: determinant: различные типы для формального и фактического параметров 1
+C:\Users\Карина\Desktop\прога\яп\ЯПЫ 3 CPU\Source.c(57,5): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Карина\Desktop\прога\яп\ЯПЫ 3 CPU\Source.c(45): warning C4715: determinant: значение возвращается не при всех путях выполнения
+  ЯПЫ 3 CPU.vcxproj -> C:\Users\Карина\Desktop\прога\яп\ЯПЫ 3 CPU\x64\Debug\ЯПЫ 3 CPU.exe
